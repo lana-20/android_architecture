@@ -8,6 +8,7 @@ As an SDET Engineer, it is important to have a deep understanding of the various
 - is free but Google [may charge](https://www.theverge.com/2018/10/19/17999366/google-eu-android-licensing-terms) for Google Mobile Services (GMS), which include Google Play Store 
 - runs on 2.5 billions devices as of May 2019 (eg, [Epson AR Headset](https://www.youtube.com/watch?v=1tvqsBwhCRw&ab_channel=RedrockBiometrics))
 
+----
 
 One key component of Android is the Hardware Abstraction Layer (HAL).
 
@@ -52,5 +53,7 @@ Finally, there is the <code>Skin</code>, also known as a firmware overlay or cus
 - A third illustration of a Skin is to think of it as a "themes" for a mobile device. Just as themes can change the appearance of a computer desktop, a skin can change the appearance and features of a mobile device. It can add new icons, new colors, new fonts, and new features to the device, making it more personalized and user-friendly.
 
 In short, a Skin, also known as a firmware overlay or custom ROM, is a custom version of the Android operating system that is installed on a mobile device. These skins are created by manufacturers and designed to enhance the user experience and offer additional features and customization options. It can change the look and feel of the device, making it more personalized and user-friendly.
+
+----
 
 As an SDET Engineer, it is essential to understand how these different components interact with one another and how they can affect the overall performance and functionality of the device. This understanding is critical in developing and maintaining high-quality software and ensuring that it is compatible with a wide range of devices and hardware configurations.
