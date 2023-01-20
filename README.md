@@ -1,9 +1,14 @@
-# Android Skins
+# [Android Skins](https://www.igyaan.in/178079/android-skins-different-companies/)
 
 As an SDET Engineer, it is important to have a deep understanding of the various components that make up the Android operating system. One key component is the Hardware Abstraction Layer (HAL).
 
 ## HAL
+
+<img width="700" src="https://user-images.githubusercontent.com/70295997/213611480-efb7f929-1119-482e-8a67-153981c2d303.png">
+
 The <code>HAL</code> is a software layer that sits between the Android operating system and the device's hardware. It provides a standard interface for the operating system to interact with the device's hardware, and it abstracts the underlying hardware details so that the operating system does not need to be aware of them. This abstraction allows for the operating system to be more modular and easier to maintain, as it does not need to be updated for every new piece of hardware that is released.
+
+<img width="1000" src="https://user-images.githubusercontent.com/70295997/213610583-27ba6b8f-1ce2-4cd1-93b1-d4542a6edbce.png">
 
 - A common illustration of the Hardware Abstraction Layer (HAL) is to think of it as a "driver" for the operating system. Just as a driver allows a computer's operating system to communicate with a specific piece of hardware, such as a printer or a graphics card, the HAL allows the Android operating system to communicate with the device's hardware.
 
@@ -25,7 +30,7 @@ Another important component is the <code>ROM</code> (Read-Only Memory) which ref
 In short, ROM (Read-Only Memory) is the firmware that controls the basic functions of a mobile device, such as its hardware and software interfaces. It contains the instructions that tell the device how to boot up and operate, and it is stored in a non-volatile memory chip. A solid and stable ROM is essential for the proper functioning of a mobile device.
 
 ## Skin
-Finally, there is the <code>Skin</code>, also known as a firmware overlay or custom ROM, which is a custom version of the Android operating system that is installed on a mobile device. These skins are created by manufacturers, such as Samsung, LG, and OnePlus, and are designed to enhance the user experience and offer additional features and customization options.
+Finally, there is the <code>Skin</code>, also known as a firmware overlay or custom ROM, which is a custom version of the Android operating system that is installed on a mobile device. These skins are created by manufacturers, such as [Samsung](https://www.fastcompany.com/90264362/with-new-one-ui-samsung-shows-some-empathy-for-smartphone-users), LG, and OnePlus, and are designed to enhance the user experience and offer additional features and customization options.
 
 - A common illustration of a Skin, also known as a firmware overlay or custom ROM, is to think of it as a "coat of paint" on a mobile device. Just as a coat of paint can change the appearance of a wall, a skin can change the appearance and features of a mobile device. Skins are created by manufacturers, such as Samsung, LG, and OnePlus, and are designed to enhance the user experience and offer additional features and customization options.
 
