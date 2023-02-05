@@ -1,4 +1,4 @@
-# [Android Skins](https://www.igyaan.in/178079/android-skins-different-companies/)
+# <img src="https://user-images.githubusercontent.com/70295997/216801172-b59cd390-6ff4-4860-bf47-7101a4383fd7.png" width=40> [Android Skins](https://www.igyaan.in/178079/android-skins-different-companies/)
 
 As an SDET Engineer, it is important to have a deep understanding of the various components that make up the Android operating system. 
 
@@ -8,21 +8,18 @@ As an SDET Engineer, it is important to have a deep understanding of the various
 - is free but Google [may charge](https://www.theverge.com/2018/10/19/17999366/google-eu-android-licensing-terms) for Google Mobile Services (GMS), which include Google Play Store 
 - runs on 2.5 billions devices as of May 2019 (eg, [Epson AR Headset](https://www.youtube.com/watch?v=1tvqsBwhCRw&ab_channel=RedrockBiometrics))
 
-----
-
-One key component of Android is the Hardware Abstraction Layer (HAL).
-
-## [HAL](https://source.android.com/docs/core/architecture/hal)
-
 <img width="700" src="https://user-images.githubusercontent.com/70295997/213611480-efb7f929-1119-482e-8a67-153981c2d303.png">
-
-The <code>HAL</code> is a software layer that sits between the Android operating system and the device's hardware. It provides a standard interface for the operating system to interact with the device's hardware, and it abstracts the underlying hardware details so that the operating system does not need to be aware of them. This abstraction allows for the operating system to be more modular and easier to maintain, as it does not need to be updated for every new piece of hardware that is released.
-
 <img width="1000" src="https://user-images.githubusercontent.com/70295997/213610583-27ba6b8f-1ce2-4cd1-93b1-d4542a6edbce.png">
 
 ⚙️ Dalvik vs ART ➡️ [Android Runtime (ART) and Dalvik](https://source.android.com/docs/core/runtime)
 
 ⚙️ Linux Kernel ➡️ [What is the Linux kernel?](https://www.redhat.com/en/topics/linux/what-is-the-linux-kernel)
+
+## <img src="https://user-images.githubusercontent.com/70295997/216801224-4cff8890-3e8b-4ff2-a772-3e2cd0605798.png" width=40> [HAL](https://source.android.com/docs/core/architecture/hal)
+
+One key component of Android is the Hardware Abstraction Layer (HAL).
+
+The <code>HAL</code> is a software layer that sits between the Android operating system and the device's hardware. It provides a standard interface for the operating system to interact with the device's hardware, and it abstracts the underlying hardware details so that the operating system does not need to be aware of them. This abstraction allows for the operating system to be more modular and easier to maintain, as it does not need to be updated for every new piece of hardware that is released.
 
 - A common illustration of the Hardware Abstraction Layer (HAL) is to think of it as a "driver" for the operating system. Just as a driver allows a computer's operating system to communicate with a specific piece of hardware, such as a printer or a graphics card, the HAL allows the Android operating system to communicate with the device's hardware.
 
@@ -43,7 +40,7 @@ Another important component is the <code>ROM</code> (Read-Only Memory) which ref
 
 In short, ROM (Read-Only Memory) is the firmware that controls the basic functions of a mobile device, such as its hardware and software interfaces. It contains the instructions that tell the device how to boot up and operate, and it is stored in a non-volatile memory chip. A solid and stable ROM is essential for the proper functioning of a mobile device.
 
-## Skin
+## <img src="https://user-images.githubusercontent.com/70295997/216801151-c3f6a125-2d36-4d9f-bb7e-7d70ff477329.png" width=40> Skin
 Finally, there is the <code>Skin</code>, also known as a firmware overlay or custom ROM, which is a custom version of the Android operating system that is installed on a mobile device. These skins are created by manufacturers, such as [Samsung](https://www.fastcompany.com/90264362/with-new-one-ui-samsung-shows-some-empathy-for-smartphone-users), LG, and OnePlus, and are designed to enhance the user experience and offer additional features and customization options.
 
 - A common illustration of a Skin, also known as a firmware overlay or custom ROM, is to think of it as a "coat of paint" on a mobile device. Just as a coat of paint can change the appearance of a wall, a skin can change the appearance and features of a mobile device. Skins are created by manufacturers, such as Samsung, LG, and OnePlus, and are designed to enhance the user experience and offer additional features and customization options.
@@ -80,6 +77,6 @@ As an SDET Engineer, it is essential to understand how these different component
 
 [More on HAL](https://github.com/lana-20/hal/blob/main/README.md)
 
-[More on ART/Dalvik]()
+[More on ART/Dalvik](https://github.com/lana-20/android-runtime/blob/main/README.md)
 
 [More on ROM](https://github.com/lana-20/rom/tree/main#readme)
