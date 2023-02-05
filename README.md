@@ -82,4 +82,4 @@ As an SDET Engineer, it is essential to understand how these different component
 
 [More on ART/Dalvik]()
 
-[More on ROM]()
+[More on ROM](https://github.com/lana-20/rom/tree/main#readme)
