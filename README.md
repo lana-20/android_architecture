@@ -57,3 +57,14 @@ In short, a Skin, also known as a firmware overlay or custom ROM, is a custom ve
 ----
 
 As an SDET Engineer, it is essential to understand how these different components interact with one another and how they can affect the overall performance and functionality of the device. This understanding is critical in developing and maintaining high-quality software and ensuring that it is compatible with a wide range of devices and hardware configurations.
+
+
+----
+
+<img src="https://user-images.githubusercontent.com/70295997/216799077-2d9e604c-c89e-4126-8cea-ea3e18ba3fe6.png" width=40> 
+
+[More on Skins](https://github.com/lana-20/skins/tree/main#readme)
+
+[More on HAL]()
+
+[More on ART/Dalvik]()
