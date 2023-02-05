@@ -58,6 +58,19 @@ In short, a Skin, also known as a firmware overlay or custom ROM, is a custom ve
 
 As an SDET Engineer, it is essential to understand how these different components interact with one another and how they can affect the overall performance and functionality of the device. This understanding is critical in developing and maintaining high-quality software and ensuring that it is compatible with a wide range of devices and hardware configurations.
 
+<img width="800" src="https://user-images.githubusercontent.com/70295997/216799650-c44bd002-1a68-4a3e-b6a9-ac53a5308939.png">
+
+<img src="https://user-images.githubusercontent.com/70295997/216799817-9dbbeab7-629b-4654-8a2f-bf51cc366776.png" width=40> Here are some examples of each component:
+
+1. Hardware Abstraction Layer (HAL): the camera HAL provides a standard interface for accessing the camera hardware on a device, allowing the Android framework to take pictures, record videos, and adjust camera settings without having to know the specifics of the camera hardware.
+
+2. Read-Only Memory (ROM): a custom ROM such as CyanogenMod provides a different operating system, user interface, and built-in apps than the original ROM installed on a device.
+
+3. Dalvik: prior to Android 4.4, all Android devices used Dalvik as the virtual machine to run applications.
+
+4. Android RunTime (ART): starting with Android 4.4, ART became the default virtual machine for running applications on Android devices, replacing Dalvik.
+
+5. Skins: Samsung OneUI is a skin provided by Samsung that changes the look and feel of the user interface on Samsung devices. Another example is the custom ROM LineageOS, which provides its own skin, known as LineageOS Theme Engine.
 
 ----
 
@@ -65,6 +78,8 @@ As an SDET Engineer, it is essential to understand how these different component
 
 [More on Skins](https://github.com/lana-20/skins/tree/main#readme)
 
-[More on HAL]()
+[More on HAL](https://github.com/lana-20/hal/blob/main/README.md)
 
 [More on ART/Dalvik]()
+
+[More on ROM]()
