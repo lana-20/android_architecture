@@ -29,7 +29,7 @@ The <code>HAL</code> is a software layer that sits between the Android operating
 
 In short, the Hardware Abstraction Layer (HAL) is a crucial component of the Android operating system that allows the operating system to communicate with the device's hardware. It abstracts the underlying hardware details and provides a standard interface for the operating system, enabling it to be more modular and easier to maintain.
 
-## ROM
+## <img src="https://user-images.githubusercontent.com/70295997/216801398-30be14d6-067e-45e1-85d5-09a5bed290cd.png" width=40> ROM
 Another important component is the <code>ROM</code> (Read-Only Memory) which refers to the firmware that controls the basic functions of a mobile device, such as its hardware and software interfaces. A ROM contains the instructions that tell a device how to boot up and operate, and it is stored in a non-volatile memory chip. Stock ROMs are the firmware that comes pre-installed on a device when it is manufactured, while custom ROMs are modified versions of the firmware that are created by third-party developers.
 
 - A common illustration of a ROM (Read-Only Memory) is to think of it as the "brain" of a mobile device. Just as the brain controls and coordinates all the functions of the body, the ROM controls and coordinates all the functions of the mobile device. It contains the instructions that tell the device how to boot up and operate, and it is stored in a non-volatile memory chip.
