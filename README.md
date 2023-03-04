@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/70295997/216801172-b59cd390-6ff4-4860-bf47-7101a4383fd7.png" width=40> [Android Skins](https://www.igyaan.in/178079/android-skins-different-companies/)
+# <img src="https://user-images.githubusercontent.com/70295997/216801172-b59cd390-6ff4-4860-bf47-7101a4383fd7.png" width=40> Android Architecture
 
 As an SDET Engineer, it is important to have a deep understanding of the various components that make up the Android operating system. 
 
@@ -74,6 +74,8 @@ As an SDET Engineer, it is essential to understand how these different component
 <img src="https://user-images.githubusercontent.com/70295997/216799077-2d9e604c-c89e-4126-8cea-ea3e18ba3fe6.png" width=40> 
 
 [More on Skins](https://github.com/lana-20/skins/tree/main#readme)
+
+[Android Skins](https://www.igyaan.in/178079/android-skins-different-companies/)
 
 [More on HAL](https://github.com/lana-20/hal/blob/main/README.md)
 
