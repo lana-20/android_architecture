@@ -75,8 +75,6 @@ As an SDET Engineer, it is essential to understand how these different component
 
 [More on Skins](https://github.com/lana-20/skins/tree/main#readme)
 
-[Android Skins](https://www.igyaan.in/178079/android-skins-different-companies/)
-
 [More on HAL](https://github.com/lana-20/hal/blob/main/README.md)
 
 [More on ART/Dalvik](https://github.com/lana-20/android-runtime/blob/main/README.md)
